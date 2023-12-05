@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice Unified", "Practice Unified\Practice Unified.csproj", "{4D7E9B14-D69B-4954-AF2D-FB6A170162A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7E9B14-D69B-4954-AF2D-FB6A170162A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7E9B14-D69B-4954-AF2D-FB6A170162A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7E9B14-D69B-4954-AF2D-FB6A170162A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7E9B14-D69B-4954-AF2D-FB6A170162A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
